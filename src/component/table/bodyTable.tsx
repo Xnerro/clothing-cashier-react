@@ -65,8 +65,8 @@ export const BodyTable: FC<Props> = (prop) => {
                                 )}
                             </Td>
                             {(prop.menu !== 'Items Menu' && x === 'Image') ||
+                            (x === 'Color' && prop.menu !== 'Variants Menu' && prop.menu !== 'Items Menu') ||
                             x === 'Stock' ||
-                            (x === 'Color' && prop.menu !== 'Variants Menu') ||
                             x === 'Role' ? (
                                 <Td>
                                     {prop.menu === 'Items Menu' ? null : (

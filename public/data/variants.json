@@ -1,0 +1,92 @@
+[
+    {
+        "Id": 1,
+        "Product_id": 1,
+        "Category": "T-Shirt",
+        "Size": "XL",
+        "Color": "Black",
+        "Price": "200000",
+        "Stock": 0
+    },
+    {
+        "Id": 2,
+        "Product_id": 1,
+        "Category": "T-Shirt",
+        "Size": "L",
+        "Color": "Black",
+        "Price": "200000",
+        "Stock": 0
+    },
+    {
+        "Id": 3,
+        "Product_id": 2,
+        "Category": "T-Shirt",
+        "Size": "XL",
+        "Color": "White",
+        "Price": "180000",
+        "Stock": 0
+    },
+    {
+        "Id": 4,
+        "Product_id": 2,
+        "Category": "T-Shirt",
+        "Size": "XL",
+        "Color": "Blue",
+        "Price": "180000",
+        "Stock": 0
+    },
+    {
+        "Id": 5,
+        "Product_id": 2,
+        "Category": "T-Shirt",
+        "Size": "L",
+        "Color": "Blue",
+        "Price": "180000",
+        "Stock": 0
+    },
+    {
+        "Id": 6,
+        "Product_id": 3,
+        "Category": "Pants",
+        "Size": "XL",
+        "Color": "Blue",
+        "Price": "200000",
+        "Stock": 0
+    },
+    {
+        "Id": 7,
+        "Product_id": 3,
+        "Category": "Pants",
+        "Size": "L",
+        "Color": "Blue",
+        "Price": "200000",
+        "Stock": 0
+    },
+    {
+        "Id": 8,
+        "Product_id": 3,
+        "Category": "Pants",
+        "Size": "XL",
+        "Color": "Black",
+        "Price": "200000",
+        "Stock": 0
+    },
+    {
+        "Id": 9,
+        "Product_id": 3,
+        "Category": "Pants",
+        "Size": "L",
+        "Color": "Black",
+        "Price": "200000",
+        "Stock": 0
+    },
+    {
+        "Id": 10,
+        "Product_id": 3,
+        "Category": "Pants",
+        "Size": "S",
+        "Color": "Blue",
+        "Price": "200000",
+        "Stock": 0
+    }
+]

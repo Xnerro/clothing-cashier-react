@@ -1,0 +1,26 @@
+[
+    {
+        "Id": 1,
+        "Name": "Bagus",
+        "Age": 21,
+        "Role": "Admin"
+    },
+    {
+        "Id": 2,
+        "Name": "Gus",
+        "Age": 18,
+        "Role": "Cahier"
+    },
+    {
+        "Id": 3,
+        "Name": "Syam",
+        "Age": 19,
+        "Role": "Cahier"
+    },
+    {
+        "Id": 4,
+        "Name": "Syamsu",
+        "Age": 22,
+        "Role": "Cahier"
+    }
+]

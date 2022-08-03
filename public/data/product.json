@@ -1,0 +1,17 @@
+[
+    {
+        "Id": 1,
+        "Name": "Shirt Express",
+        "Image": "https://4.bp.blogspot.com/-xzL32lupFMQ/WC2GDWdsoJI/AAAAAAAADfg/DAf56yzKFPsspEdPxeIgVNxAKj0hff7MACLcB/s1600/2.jpg"
+    },
+    {
+        "Id": 2,
+        "Name": "Shirt Lama",
+        "Image": "https://th.bing.com/th/id/R.8121c1b958d4408816aef3be55f32765?rik=mVsgDkmlnDXHow&riu=http%3a%2f%2f2.bp.blogspot.com%2f-YHYGqepZCDQ%2fU8aNRPtnpbI%2fAAAAAAAAAM8%2fcYRl_tdCIKA%2fs1600%2f03.jpg&ehk=Y2gXSTIoF0NPubgiFiMnhHLXNJ3tG%2buqSxVbMc6hBiY%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"
+    },
+    {
+        "Id": 3,
+        "Name": "Pant Express",
+        "Image": "https://ds393qgzrxwzn.cloudfront.net/resize/m720x480/cat1/img/images/0/yjDHEzzXAN.jpg"
+    }
+]

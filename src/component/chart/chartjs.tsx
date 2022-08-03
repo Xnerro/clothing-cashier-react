@@ -9,6 +9,7 @@ import {
     Tooltip,
     Legend,
     Filler,
+    LineController
 } from 'chart.js';
 import { Chart } from 'react-chartjs-2';
 
@@ -19,7 +20,8 @@ ChartJS.register(
     LineElement,
     Tooltip,
     Legend,
-    Filler
+    Filler,
+    LineController
 );
 
 const labels = ['January', 'February', 'March', 'April', 'May', 'June', 'July'];

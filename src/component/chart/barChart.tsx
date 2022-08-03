@@ -9,6 +9,7 @@ import {
     Tooltip,
     Legend,
     Filler,
+    BarController
 } from 'chart.js';
 import { Chart } from 'react-chartjs-2';
 
@@ -19,7 +20,8 @@ ChartJS.register(
     BarElement,
     Tooltip,
     Legend,
-    Filler
+    Filler,
+    BarController
 );
 
 const labels: string[] = [
